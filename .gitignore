@@ -1,0 +1,15 @@
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# IDE/Editor settings
+.vscode/
+
+# Temporary files
+*.exe
+*.log
+
+# Python cache
+__pycache__/
+*.pyc

@@ -23,3 +23,4 @@ def remove_from_startup():
 if __name__ == "__main__":
     remove_from_startup()
     input("Press Enter to exit...")  # Optional: keep console open to see result
+    
